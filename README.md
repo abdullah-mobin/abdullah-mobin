@@ -5,9 +5,8 @@
 
 
 - 🌱 I’m currently learning **C++ & OOP**
-
 - 💬 Ask me about **C, C++, Go**
-
+- 🔎 About myself @<a href="https://sites.google.com/view/abdullah-al-mobin/home"> **Abdullah Mobin** </a>
 - 📫 How to reach me **mahi.odyssey@gmail.com**
 
 <h3 align="left">Connect me:</h3>
