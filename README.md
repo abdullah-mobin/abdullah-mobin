@@ -38,5 +38,5 @@
 </p>
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-mobin&show_icons=true&locale=en&layout=compact" alt="abdullah-mobin" /></div>
+
 
