@@ -17,7 +17,7 @@
 <h3 align="left">Problem Solving</h3>
 <p align="left">
 <a href="https://www.leetcode.com/abdullah-mobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah-mobin" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.beecrowd.com.br/judge/en/profile/726667" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Abdullah_Mahi" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://judge.beecrowd.com/en/profile/726667" target="blank"><img align="center" src="https://judge.beecrowd.com/img/5.0/logo-beecrowd.png?1756240500" alt="Abdullah_Mahi" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://school.outsbook.com/rank/statistics/3074" target="blank"><img align="center" src="https://school.outsbook.com/img/ico/logo.png" alt="Abdullah_Mahi" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.hackerrank.com/mahi_mtvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahi_mtvs" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/Abdullah_Mahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Abdullah_Mahi" height="30" width="40" /></a>
